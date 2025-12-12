@@ -2,6 +2,8 @@
 
 一个基于 Web 的 Telegram Session String 生成工具，支持二维码扫码和手机号登录。Docker 部署，开箱即用。
 
+![Screenshot](https://youke2.picui.cn/s1/2025/12/12/693c3070663ca.png)
+
 ## ✨ 功能特点
 - 📱 **Web 可视化界面**：操作简单，无需命令行。
 - 🚀 **多种登录方式**：支持官方 App 扫码登录 (推荐) 和手机号验证码登录。
