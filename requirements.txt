@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+telethon
+qrcode
+pillow
+jinja2
+python-multipart
+pysocks
+python-socks[asyncio]
