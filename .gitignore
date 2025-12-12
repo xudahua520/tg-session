@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.DS_Store
+# 忽略生成的会话文件和文件夹
+sessions/
+*.session
+*.log
+*.txt
